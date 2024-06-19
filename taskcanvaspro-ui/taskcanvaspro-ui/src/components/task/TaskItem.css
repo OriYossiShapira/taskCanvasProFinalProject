@@ -1,0 +1,14 @@
+
+.task-item{
+    width:35%;
+    margin: 0.8rem;
+    padding:0.8rem;
+    box-shadow: 10px 10px 1px 1px #0c0d0c;
+    text-decoration: none;
+    color: black;
+    border-radius:8px;
+   
+  
+
+ 
+}

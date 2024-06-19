@@ -1,0 +1,31 @@
+.edit-task{
+    display: flex;
+    width:50%;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 10vh auto;
+}
+.edit-task > div{
+    margin:0.5rem;
+    padding: 0.5rem;
+}
+.edit-task > div > input, .edit-task > div > label{
+    margin:0.5rem;
+    padding: 0.5rem;
+}
+.edit-task > div > label, .edit-task .sub-tasks > div > label{
+    display: inline-block;
+    min-width: 15vw;
+    margin:0.5rem;
+}
+.edit-task .edit-subtasks{
+    box-shadow: 2px 2px 2px 3px #223344;
+    height: 35vh;
+    overflow-y: auto;
+}
+
+.edit-task .edit-subtasks > div{
+    margin:0.5rem;
+    padding: 0.5rem;
+}
+

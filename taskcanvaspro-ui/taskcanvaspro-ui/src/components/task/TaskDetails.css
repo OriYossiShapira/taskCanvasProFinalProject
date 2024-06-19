@@ -1,0 +1,12 @@
+.task-details{
+    display: flex;
+    justify-content: center;
+}
+.task-details > div{
+    margin: 1% auto;
+}
+
+/* .task-details .subtasks-details{
+    height: 35vh;
+    overflow-y: auto;
+} */

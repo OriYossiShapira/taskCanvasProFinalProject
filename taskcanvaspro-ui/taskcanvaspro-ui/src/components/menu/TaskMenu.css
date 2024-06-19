@@ -1,0 +1,16 @@
+.menu{
+    display: flex;
+    justify-content: space-around;
+    margin: 5px;
+    padding: 5px;
+}
+
+.menu a{
+    text-decoration: none;
+    background-color:antiquewhite;
+    border-radius: 5px;
+    color:black;
+    font-weight: bold;
+    margin:5px;
+    padding:5px;
+}

@@ -1,0 +1,15 @@
+.edit-subtask{
+    margin: 0.8rem;
+    padding: 0.8rem;
+    box-shadow: 2px 2px 2px 3px #223344;
+}
+
+.edit-subtask > div{
+    margin: 0.4rem;
+    padding: 0.4rem;
+}
+
+.delete-subtask_container{
+    display: flex;
+    justify-content: flex-end;
+}

@@ -1,0 +1,32 @@
+
+
+.task-list > div{
+    background: rgb(63,94,251);
+    background: linear-gradient(96deg, rgba(63,94,251,1) 0%, rgba(70,252,227,0.8869922969187675) 100%);
+    margin:0.5rem;
+    padding:0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+}
+
+.task-list .filter{
+    display: flex;
+    
+    justify-content: center;
+}
+
+.task-list .filter button{
+
+    margin:0.5rem;
+    padding:0.5rem;
+    width:10%;
+    margin: 0.8rem;
+    padding:0.8rem;
+    box-shadow: 10px 10px 1px 1px #0c0d0c;
+    text-decoration: none;
+    color: black;
+    border-radius:8px;
+    font-family: "Press Start 2P", system-ui;
+}

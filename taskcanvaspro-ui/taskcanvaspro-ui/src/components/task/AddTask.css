@@ -1,0 +1,17 @@
+.add-task{
+    display: flex;
+    width:50%;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 20vh auto;
+}
+
+.add-task > div{
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+.add-task > div > *{
+    margin:0.5rem;
+    padding:0.5rem;
+}
